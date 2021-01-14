@@ -1,4 +1,4 @@
-package com.dipesh.softuserclone.fragments
+package com.sirish.softuserclone.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,10 +7,10 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.dipesh.softuserclone.R
-import com.dipesh.softuserclone.`object`.Student
-import com.dipesh.softuserclone.adapter.StudentAdapter
-import com.dipesh.softuserclone.model.student
+import com.sirish.softuserclone.R
+import com.sirish.softuserclone.`object`.Student
+import com.sirish.softuserclone.adapter.StudentAdapter
+import com.sirish.softuserclone.model.student
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 

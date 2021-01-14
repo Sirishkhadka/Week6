@@ -1,4 +1,4 @@
-package com.dipesh.softuserclone
+package com.sirish.softuserclone
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,8 +7,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
-import com.dipesh.softuserclone.fragments.HomeFragment
-import com.dipesh.softuserclone.model.student
+import com.sirish.softuserclone.model.student
 
 class LoginActivity : AppCompatActivity(),View.OnClickListener{
     private lateinit var etUsername: EditText

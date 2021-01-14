@@ -1,4 +1,4 @@
-package com.dipesh.softuserclone.adapter
+package com.sirish.softuserclone.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -8,8 +8,8 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.dipesh.softuserclone.R
-import com.dipesh.softuserclone.model.student
+import com.sirish.softuserclone.R
+import com.sirish.softuserclone.model.student
 
 class StudentAdapter(
         val lstStudents:ArrayList<student>,

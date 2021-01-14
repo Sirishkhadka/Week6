@@ -1,6 +1,6 @@
-package com.dipesh.softuserclone.`object`
+package com.sirish.softuserclone.`object`
 
-import com.dipesh.softuserclone.model.student
+import com.sirish.softuserclone.model.student
 
 object Student {
     var lstStudent= arrayListOf<student>()

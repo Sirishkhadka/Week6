@@ -1,4 +1,4 @@
-package com.dipesh.softuserclone.model
+package com.sirish.softuserclone.model
 
 import android.os.Parcel
 import android.os.Parcelable

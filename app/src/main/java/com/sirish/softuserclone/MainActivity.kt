@@ -1,17 +1,14 @@
-package com.dipesh.softuserclone
+package com.sirish.softuserclone
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.FrameLayout
 import android.widget.LinearLayout
 import androidx.fragment.app.Fragment
-import androidx.fragment.app.FragmentTransaction
-import com.dipesh.softuserclone.`object`.Student
-import com.dipesh.softuserclone.fragments.AboutFragment
-import com.dipesh.softuserclone.fragments.AddStudentFragment
-import com.dipesh.softuserclone.fragments.HomeFragment
-import com.dipesh.softuserclone.model.student
-import com.google.android.material.bottomnavigation.BottomNavigationMenu
+import com.sirish.softuserclone.`object`.Student
+import com.sirish.softuserclone.fragments.AboutFragment
+import com.sirish.softuserclone.fragments.AddStudentFragment
+import com.sirish.softuserclone.fragments.HomeFragment
+import com.sirish.softuserclone.model.student
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
